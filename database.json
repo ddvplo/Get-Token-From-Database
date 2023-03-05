@@ -1,0 +1,23 @@
+{
+    "0000000000000000001": {
+        "username": "EXAMPLE#0001",
+        "phone_number": null,
+        "email": "example1@gmail.com",
+        "flags": 0,
+        "locale": "pl",
+        "verified": true,
+        "has_nitro": false,
+        "payment_methods": 0,
+        "token": "WSADKSYZANDPEWNIEISCOOOOOLGUYS"
+    },
+    "0000000000000000002": {
+        "username": "EXAMPLE#0002",
+        "phone_number": "123456789",
+        "email": "example2@gmail.com",
+        "flags": 96,
+        "locale": "pl",
+        "verified": true,
+        "has_nitro": false,
+        "payment_methods": 1,
+        "token": "TESTTOKENYKFOREXAMPLE2BECOUSEISCOOL"
+}
